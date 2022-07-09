@@ -5,7 +5,7 @@
 [![Platform](https://img.shields.io/badge/platform-linux%20%7C%20macos%20%7C%20windows-lightgrey.svg)](https://img.shields.io/badge/platform-linux%20%7C%20macos20%7C%20windows-lightgrey.svg)
 [![Build Status](https://img.shields.io/github/workflow/status/sogou/workflow/ci%20build)](https://github.com/sogou/workflow/actions?query=workflow%3A%22ci+build%22++)
 
-В качестве серверного движка **Sogou C++ Workflow** поддерживает практически все **серверные C++ онлайн-сервисы** Sogou, включая все поисковые сервисы, облачный метод ввода, онлайн-рекламу и т.д., обрабатывая более 10 миллиардов запросов каждый день. Это **программный движок корпоративного уровня** в легком и элегантном дизайне, который может удовлетворить большинство требований к серверной разработке на C++. This is an programming engine which can satisfy most C++ back-end development requirements.
+В качестве серверного движка **Sogou C++ Workflow** поддерживает практически все **серверные C++ онлайн-сервисы** Sogou, включая все поисковые сервисы, облачный метод ввода, онлайн-рекламу и т.д., обрабатывая более 10 миллиардов запросов в каждый день. Это **программный движок корпоративного уровня** в легком и элегантном дизайне, который может удовлетворить большинство требований к серверной разработке на C++. This is an programming engine which can satisfy most C++ back-end development requirements.
 
 
 
