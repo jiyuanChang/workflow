@@ -148,11 +148,13 @@ sudo apt-get install libworkflow1
 
   * [Простой определяемый пользовательский протокол: клиент/сервер](docs/en/tutorial-10-user_defined_protocol.md)
 
-* Временные задачи и подсчет задач
+* Другие важные задачи и компоненты
 
   * [О таймере](https://github.com/sogou/workflow/blob/master/docs/en/about-timer.md)
 
   * [О счетчике](https://github.com/sogou/workflow/blob/master/docs/en/about-counter.md)
+  
+  * [Условные задачи и шаблоны наблюдателей](https://github.com/jiyuanChang/workflow/blob/master/docs/about-conditional.md)
 
   * [О пуле ресурсов](https://github.com/sogou/workflow/blob/master/docs/en/about-resource-pool.md)
 
