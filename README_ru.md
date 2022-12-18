@@ -165,7 +165,7 @@ sudo apt-get install libworkflow1
   
   * [Графическая(DAG) задача](https://github.com/jiyuanChang/workflow/blob/master/docs/tutorial-11-graph_task.md) 
 
-* Service governance
+* Управление сервисами
 
   * [Об service governance](docs/en/about-service-governance.md)
 
