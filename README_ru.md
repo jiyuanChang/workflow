@@ -162,6 +162,8 @@ sudo apt-get install libworkflow1
   * [О пуле ресурсов](https://github.com/sogou/workflow/blob/master/docs/en/about-resource-pool.md)
 
   * [О модуле](https://github.com/sogou/workflow/blob/master/docs/en/about-module.md)
+  
+  * [Графическая(DAG) задача](https://github.com/jiyuanChang/workflow/blob/master/docs/tutorial-11-graph_task.md) 
 
 * Service governance
 
