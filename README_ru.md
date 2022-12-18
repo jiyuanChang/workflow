@@ -180,6 +180,8 @@ sudo apt-get install libworkflow1
   * [Асинхронный клиент MySQL: mysql_client](docs/en/tutorial-12-mysql_cli.md)
 
   * [Асинхронный клиент Kafka: kafka_cli](docs/en/tutorial-13-kafka_cli.md)
+  
+  *	[Asynchronous DNS client: dns_cli](https://github.com/jiyuanChang/workflow/blob/master/docs/tutorial-17-dns_cli.md)
 
 #### Парадигма программирования
 
