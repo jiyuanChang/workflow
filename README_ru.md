@@ -51,6 +51,7 @@
 * Для построения **микросервисной системы**.
 
      * Этот проект имеет встроенные характически - **service governance** и **load balancing**.
+     * Используйте плагин workflow-k8s для интеграции управления сервисами с автоматическим развертыванием kubernetes.
 
 * Ссылка Wiki: [PaaS Architecture](https://github.com/sogou/workflow/wiki)
 
